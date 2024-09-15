@@ -1,7 +1,7 @@
 ## Meu Portfólio: Meu Curriculo detalhado nesse guia - Descomplica Faculdade Digital
 
 ### Introdução
-Esta pagina Web tem como objetivo apresentar informações sobre diversos minhas experiências de forma clara. A página é direcionada a todos interessados em aprender saber mais sobre mim.
+Esta pagina Web tem como objetivo apresentar informações sobre minhas experiências de forma clara. A página é direcionada a todos interessados em aprender saber mais sobre mim.
 
 Responsividade: Certifique-se de que a página seja responsiva e se adapte a diferentes tamanhos de tela.
 
@@ -15,7 +15,7 @@ Responsividade: Certifique-se de que a página seja responsiva e se adapte a dif
 * **Glightbox** Biblioteca JavaScript para lightbox de imagens.
 * **Swiper** Biblioteca JavaScript para carrosséis touch-enabled.
 * **Hospedagem** 
-* **Vercel**
+* **GitHub Pages**
 
 ### Estrutura da Página
 A página possui seções principais:
@@ -32,7 +32,7 @@ A página possui seções principais:
 A aplicação foi desenvolvida com foco em responsividade, garantindo uma experiência de usuário consistente em diferentes dispositivos (desktop, tablets e smartphones). Utilizamos Bootstrap e media queries para adaptar o layout da página de acordo com o tamanho da tela.
 
 ### Como Utilizar
-1. **Acesse a aplicação:** Visite  para começar sua exploração.
+1. **Acesse a aplicação:** Visite https://lucianossouza.github.io/portfolio/ para começar sua exploração.
 2. **Pesquise:** Digite o nome do animal ou palavras-chaves que você deseja encontrar no campo de pesquisa e clique em pesquisar.
 
 ### Sobre o autor BootstrapMade.com
