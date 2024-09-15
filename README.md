@@ -38,8 +38,8 @@ A aplicação foi desenvolvida com foco em responsividade, garantindo uma experi
 ### Sobre o autor BootstrapMade.com
 O BootstrapMade.com foi fundamental para a geração de conteúdo dinâmico e personalizado neste projeto.
 
-### Sobre a Vercel
-A Vercel proporcionou uma plataforma de hospedagem rápida e confiável para este projeto. Sua integração com o GitHub e o suporte a Serverless Functions agilizaram o desenvolvimento e a implantação.
+### Sobre a Github Pages
+O Github Pages proporcionou uma plataforma de hospedagem rápida e confiável para este projeto. Sua integração com o GitHub e o suporte a Serverless Functions agilizaram o desenvolvimento e a implantação.
 
 
 Template Name: iPortfolio
