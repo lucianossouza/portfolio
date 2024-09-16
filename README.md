@@ -3,8 +3,6 @@
 ### Introdução
 Esta pagina Web tem como objetivo apresentar informações sobre minhas experiências de forma clara. A página é direcionada a todos interessados em aprender saber mais sobre mim.
 
-Responsividade: Certifique-se de que a página seja responsiva e se adapte a diferentes tamanhos de tela.
-
 ### Tecnologias utilizadas
 * **HTML5** Estrutura da página web.
 * **CSS3** Estilização da página, tornando-a visualmente atraente
